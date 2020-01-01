@@ -1,0 +1,16 @@
+/* Colours */
+.primary {
+    background-color: white;
+}
+.secondary {
+    background-color: black;
+}
+.tertiary {
+    background-color: rgb(250, 0, 0);
+}
+.quaternary {
+    background-color: darkgray;
+}
+.quinary {
+    background-color: lightgray;
+}
